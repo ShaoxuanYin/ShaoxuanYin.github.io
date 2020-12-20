@@ -19,6 +19,10 @@
 
 [Dec16_2020](./Journals/Dec16_2020.md)
 
+## Recommendation
+
+[Linux-Tools](../Recommend/Linux_tools.md)
+
 ## Go to [Video Station](./Video/video1.md)
 
 ## To scoop [more](https://github.com/dorm308/Share) resource
@@ -27,7 +31,7 @@ Some open source learning contents.
 
 
 
-_Inspired by_ [wix.com](https://djmax96945147.wixsite.com/franktudor)
+_Inspired by_ my [wix.com](https://djmax96945147.wixsite.com/franktudor)
 
 
 
