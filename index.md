@@ -21,7 +21,9 @@
 
 ## Recommendation
 
-[Linux-Tools](../Recommend/Linux_tools.md)
+[Linux-Tools](./Recommend/Linux_tools.md)
+
+[High Quality Learning Material ![Really good]](./Recommend/online_resource.md) Feb-2021 updated
 
 ## Go to [Video Station](./Video/video1.md)
 
