@@ -19,6 +19,8 @@
 
 [Dec16_2020](./Journals/Dec16_2020.md)
 
+[Learning_path](./Journals/path.md)
+
 ## Recommendation
 
 [Linux-Tools](./Recommend/Linux_tools.md)
@@ -33,7 +35,7 @@ Some open source learning contents.
 
 
 
-_Inspired by_ my [wix.com](https://djmax96945147.wixsite.com/franktudor)
+_Inspired by_ my [Entertainment Site](https://djmax96945147.wixsite.com/franktudor)
 
 
 
