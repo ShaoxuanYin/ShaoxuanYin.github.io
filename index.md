@@ -15,7 +15,7 @@
 
 ## New Release
 
-[Bicolor Tower of Hanoi(Apr20_2021)](./Blog/Bicolor_hanoi.md)
+Bicolor Tower of Hanoi(Apr20_2021): [md](./Blog/Bicolor_Hanoi/Bicolor_Hanoi.md),  [pdf](./Blog/Bicolor_Hanoi/Bicolor_Hanoi.pdf)
 
 
 
