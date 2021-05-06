@@ -29,7 +29,7 @@ Bicolor Tower of Hanoi(Apr20_2021): [md](./Blog/Bicolor_Hanoi/Bicolor_Hanoi.md),
 
 [Dec16_2020](./Journals/Dec16_2020.md)
 
-[Learning_path](./Journals/path.md)
+[Tips](./Journals/path.md)
 
 ## Recommendation
 
